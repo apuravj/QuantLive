@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+*.zip
+*.pt
+runs/
+runs 2/
+Fake_Images/
+Real_Images/
+Real_Images2/
+SplitData/
